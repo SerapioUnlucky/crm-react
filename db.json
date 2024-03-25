@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "name": "Sebastián Jerez",
+      "company": "Bolsas de té",
+      "email": "sjerez957@gmail.com",
+      "phone": "30209398",
+      "notes": "Quiere crear un portafolio en React.",
+      "id": "3bfe"
+    },
+    {
+      "id": "a8d3",
+      "name": "Benjamín Contreras",
+      "company": "Bolsas de té",
+      "email": "dropillos01@gmail.com",
+      "phone": "67856434",
+      "notes": "Quiere crear un portafolio en Angular."
+    },
+    {
+      "id": "b3b7",
+      "name": "Cristóbal Díaz",
+      "company": "Bolsas de té",
+      "email": "dropilloscaja@gmail.com",
+      "phone": "67856434",
+      "notes": "Quiere crear una plataforma web para el centro de estudiantes IECI de la Universidad del Bío Bío."
+    }
+  ]
+}
